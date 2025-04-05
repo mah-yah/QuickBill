@@ -10,10 +10,7 @@
 
 }
 .back-b{
-    display: flex;
-    flex-flow: wrap column;
-    justify-content: center;
-    align-content: center;
+
 }
 
 .container{
@@ -44,7 +41,7 @@ button{
     width: 118px;
     font-size: 14px;
     border: solid 1px #4e44e5;
-    font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 .back-card{
@@ -104,5 +101,11 @@ button{
   .total{
     display: flex;
     flex-flow: wrap column;
+    
+  }
+
+  .f-total{
+    display: flex;
     justify-content: center;
+    
   }
